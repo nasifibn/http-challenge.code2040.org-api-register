@@ -1,6 +1,6 @@
 import requests
 
-token = "83d9b617120d0299bc0e0c3ef0397752"
+token = "8e9b4ca6f16475b8662f51c070d4403d"
 firstEndpoint = "http://challenge.code2040.org/api/reverse"
 secondEndpoint = "http://challenge.code2040.org/api/reverse/validate"
 
